@@ -8,7 +8,7 @@
 
 来源：https://zh.cppreference.com/w/c/language/operator_precedence  
 
-<img src="./media/15515114643747.jpg" width="50%" height="50%">  
+<img src="./media/operator_precedence.jpg" width="50%" height="50%">  
 
 
 
