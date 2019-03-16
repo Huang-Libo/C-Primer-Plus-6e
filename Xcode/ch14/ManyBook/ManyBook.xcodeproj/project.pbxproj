@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		71E3650F222A6A61009B856E /* manybook.c in Sources */ = {isa = PBXBuildFile; fileRef = 71E3650E222A6A61009B856E /* manybook.c */; };
+		71EB7A00223CCEB000DB8C43 /* manybook.c in Sources */ = {isa = PBXBuildFile; fileRef = 71EB79FF223CCEB000DB8C43 /* manybook.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		71E36504222A6A33009B856E /* ManyBook */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ManyBook; sourceTree = BUILT_PRODUCTS_DIR; };
-		71E3650E222A6A61009B856E /* manybook.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = manybook.c; path = ../../../../raw_source_code/Ch14/manybook.c; sourceTree = "<group>"; };
+		71EB79FF223CCEB000DB8C43 /* manybook.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = manybook.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		71E36506222A6A33009B856E /* ManyBook */ = {
 			isa = PBXGroup;
 			children = (
-				71E3650E222A6A61009B856E /* manybook.c */,
+				71EB79FF223CCEB000DB8C43 /* manybook.c */,
 			);
 			path = ManyBook;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				71E3650F222A6A61009B856E /* manybook.c in Sources */,
+				71EB7A00223CCEB000DB8C43 /* manybook.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
